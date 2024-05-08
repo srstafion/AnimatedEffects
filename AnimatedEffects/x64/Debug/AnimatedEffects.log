@@ -1,0 +1,6 @@
+﻿  AnimatedEffects.cpp
+C:\Users\Denis pipis\source\repos\AnimatedEffects\AnimatedEffects.cpp(23,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis pipis\source\repos\AnimatedEffects\AnimatedEffects.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis pipis\source\repos\AnimatedEffects\AnimatedEffects.cpp(24,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis pipis\source\repos\AnimatedEffects\AnimatedEffects.cpp(24,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AnimatedEffects.vcxproj -> C:\Users\Denis pipis\source\repos\AnimatedEffects\x64\Debug\AnimatedEffects.exe
